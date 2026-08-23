@@ -2,6 +2,8 @@ import javax.swing.*;
 import java.awt.*;
 
 //PROYECTO ALUMNO: CASTILLO URIEL
+// Programación IV
+// UNLaR - Sede Chamical
 
 void main() {
 
